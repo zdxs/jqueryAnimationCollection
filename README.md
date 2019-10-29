@@ -1,0 +1,2 @@
+# jqueryAnimationCollection
+jqueryAnimationCollection 动画特效收集
